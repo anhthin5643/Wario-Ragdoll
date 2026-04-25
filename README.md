@@ -28,7 +28,7 @@ Numpad1,2,3,5:Change hand direction \
 O:Normal \
 P:Raised \
 Other inputs \
-F2:Reset \
+F2:Reset
 # Bugs
 Android touchscreen not working
 # Notes
