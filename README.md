@@ -4,6 +4,31 @@ This application is made by JoneHermer not by me
 # How To Play?
 click on this link: https://anhthin5643.github.io/Wario-Ragdoll/
 and enjoy!
+# Controls
+Face inputs:
+1:Crosseye (default)
+2:Netrual
+3:Normal
+4:Talk :D
+5:Talk :)
+6:Unamused
+7:Talk Big
+8:Screaming
+9:Zany
+0:Cool
+Z:Boring
+X:Sad
+Right hand inputs:
+Arrow keys:Change hand direction
+Q:Normal
+W:Holding controller
+E:Pointing
+Left hand inputs:
+Numpad1,2,3,5:Change hand direction
+O:Normal
+P:Raised
+Other inputs
+F2:Reset
 # Bugs
 Android touchscreen not working
 # Notes
