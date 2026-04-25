@@ -30,7 +30,7 @@ P:Raised \
 Other inputs \
 F2:Reset
 # Bugs
-Android touchscreen not working
+Mobile touchscreen doesn't work yet because it moves on upper left corner.
 # Notes
 Keep in mind by this is my first port so it has some bug, maybe i can fix it?
 # Support
