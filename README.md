@@ -30,7 +30,8 @@ P:Raised \
 Other inputs \
 F2:Reset
 # Bugs
-Mobile touchscreen doesn't work yet because it moves on upper left corner.
+Mobile touchscreen doesn't work yet because it moves on upper left corner. \
+The screen is fits below 1600x900, if it won't fit please zoom the pages.
 # Notes
 Keep in mind by this is my first port so it has some bug, maybe i can fix it?
 # Support
