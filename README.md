@@ -14,8 +14,10 @@ Face inputs: \
 6:Unamused \
 7:Talk Big \
 8:Screaming \
-9:Zany \
+9:Zany :) \
 0:Cool \
+-:Talk with looking??? \
+=:Zany :D \
 Z:Boring \
 X:Sad \
 Right hand inputs: \
@@ -33,7 +35,7 @@ F2:Reset
 Mobile touchscreen doesn't work yet because it moves on upper left corner. \
 The screen is fits below 1600x900, if it won't fit please zoom the pages.
 # Notes
-Keep in mind by this is my first port so it has some bug, maybe i can fix it?
+This application is 100% safe and free. If you've got advertisements, viruses or payments, they are scammers and you should take your money back.
 # Support
 Please support [JoneHermer](https://www.youtube.com/@JHMOD) first. \
 And Thank You for support!!! \
